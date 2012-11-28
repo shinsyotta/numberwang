@@ -3,6 +3,8 @@ Numberwang
 
 http://www.youtube.com/watch?v=qjOZtWZ56lc
 
+You might describe this as "The Numberwang Code".
+
 Installation
 ============
 
